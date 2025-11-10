@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (6.13.0.1)-->
+<!--EXML Created by AMUMSS v.5.6.1.0w-->
+<Data template="cGcGameplayGlobals">
+  <Property name="GunOffsetY" value="-0.080000" /> !# CHANGED
+  <Property name="GunOffsetZ" value="-0.080000" /> !# CHANGED
+  <Property name="GunOffsetAggressiveY" value="-0.080000" /> !# CHANGED
+  <Property name="GunOffsetAggressiveZ" value="-0.080000" /> !# CHANGED
+</Data>

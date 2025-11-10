@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--File created using MBINCompiler version (6.13.0.1)-->
+<!--EXML Created by AMUMSS v.5.6.1.0w-->
+<Data template="cGcCameraGlobals">
+  <Property name="MechCamSpringStrengthMin" value="0.000000" /> !# CHANGED
+  <Property name="MechCamSpringStrengthMax" value="0.000000" /> !# CHANGED
+  <Property name="ShipCamSpringStrengthMin" value="0.000000" /> !# CHANGED
+  <Property name="ShipCamSpringStrengthMax" value="0.000000" /> !# CHANGED
+  <Property name="FirstPersonFoV" value="140.000000" /> !# CHANGED
+  <Property name="ShipFoVMin" value="90.000000" /> !# CHANGED
+  <Property name="ShipFoVMin2" value="90.000000" /> !# CHANGED
+  <Property name="ShipFoVMax" value="95.000000" /> !# CHANGED
+  <Property name="ShipFoVBoost" value="100.000000" /> !# CHANGED
+</Data>
