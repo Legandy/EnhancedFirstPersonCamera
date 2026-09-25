@@ -52,7 +52,7 @@ I would highly suggest to make use of the .lua to adjust the mod to your prefere
 - For manual installation, extract the contents of the EnhancedFirstpersonCamera.zip file into your No Man's Sky\GAMEDATA\MODS
 - [More details here][mg]
 
-## SPECIAL THANKS:
+## SPECIAL THANKS TO:
 - [AMUMSS][amuss-ref] for making the modding pretty easy
 
 [nm]: https://www.nexusmods.com/nomanssky/mods/3901
