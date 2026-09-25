@@ -2,11 +2,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Legandy/EnhancedFirstPersonCamera/main/.site/icon.png" width="512" height="288">
 
 
-## DOWNLOADS
+## Downloads:
 [NexusMods](nm)
 
 
-## BESCHREIBUNG
+## Beschreibung:
 Dieser Mod passt die FOV-Werte (Fuß/Schiff) und die Multitool-Position so an, dass sie eher einer Standard-FPS-Ansicht entsprechen.
 
 Ich wollte das gesamte First-Person-Erlebnis verbessern, um mehr Immersion zu schaffen, beispielsweise bei der Ansicht und beim Schussverhalten.
@@ -18,7 +18,7 @@ Das Sichtfeld des Spielers scheint nicht zu funktionieren, das des Schiffes hing
 Ich empfehle dringend, die .lua-Datei zu nutzen, um den Mod an eure Vorlieben anzupassen, aber bei Bedarf kann ich auch eine weitere Variante erstellen.
 
 
-### ÄNDERUNGEN IN:
+### Änderungen in:
 ### GCCAMERAGLOBALS.GLOBAL.MBIN:
 - FOV-Einstellungen für Charakter und Schiff
 - Keine Glättung der freien Blickrichtung in Mechs und Schiffen
@@ -34,25 +34,25 @@ Ich empfehle dringend, die .lua-Datei zu nutzen, um den Mod an eure Vorlieben an
 - Ich habe viele Werte ausprobiert, war aber nicht zufrieden, daher habe ich die Idee vorerst aufgegeben.
 - Falls ihr selbst an den Einstellungen herumprobieren wollt, habe ich die .lua-Datei beigefügt. Wenn ihr gute Einstellungen findet, teilt sie bitte mit mir.
 
-### ÄNDERUNGEN IN:
+### Änderungen in:
 ### GCCAMERAGLOBALS.GLOBAL.MBIN:
 - Intensität des Multitools/der Waffenvibration
 - GCPLAYERGLOBALS.GLOBAL.MBIN:
 - Stärkerer Zoom des Zielfernrohrs
 
 
-## KONFLIKTE:
+## Konflikte:
 - ✅ Patch-Mod – Funktioniert wahrscheinlich gut mit anderen Patch- und Ersatz-Mods
 
-## FEHLER:
+## Fehler:
 - Das Sichtfeld des Spielers scheint nicht zu greifen, das Sichtfeld des Raumschiffs funktioniert jedoch. Stellt es manuell in der Datei „TKGRAPHICSSETTINGS.MXML“ ein, die sich in „No Man’s Sky\Binaries\SETTINGS\“ befindet
 
-## INSTALLATION:
+## Installation:
 - Vortex sollte funktionieren
 - Für die manuelle Installation entpacke den Inhalt der Datei „EnhancedFirstpersonCamera.zip“ in deinen Ordner „No Man's Sky\GAMEDATA\MODS“
 - [Weitere Details hier][mg]
 
-## BESONDERER DANK AN:
+## Besonderer Dank an:
 - [AMUMSS][amuss-ref] dafür, dass er das Modding ziemlich einfach gemacht hat
 
 

@@ -2,11 +2,11 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Legandy/EnhancedFirstPersonCamera/main/.site/icon.png" width="512" height="288">
 
 
-## DOWNLOADS
+## Downloads:
 [NexusMods](nm)
 
 
-## DESCRIPTION
+## Description:
 This mod modifies the FOV values (Foot/Ship) and Multitool position to be more like a standard FPS view.
 
 I wanted to enhance the overall first person experience for more immersion, like the view and gunplay.
@@ -18,7 +18,7 @@ The player FOV doesn't seem to apply, but the Ship FOV works. (set it manually i
 I would highly suggest to make use of the .lua to adjust the mod to your preference, but if really needed I can make another variant.
 
 
-### CHANGES IN:
+### Changes In:
 ### GCCAMERAGLOBALS.GLOBAL.MBIN:
 - FOV Settings for Character and Ship
 - No free look smoothing while in Mech and Ship
@@ -34,25 +34,25 @@ I would highly suggest to make use of the .lua to adjust the mod to your prefere
 - I tried a lot of values but I weren't satisfied, so I abandoned the idea for now.
 - If you want to tinker with the settings yourself, I included the .lua. If you find nice settings, please share them with me.
 
-### CAHNGES IN:
+### Cahnges In:
 ### GCCAMERAGLOBALS.GLOBAL.MBIN:
 - Multitool/Gun Shake intensity
 - GCPLAYERGLOBALS.GLOBAL.MBIN:
 - Scope stronger zoom
 
 
-## CONFLICTS:
+## Conflicts:
 - ✅ Patch mod - Likely to work well with other Patch and Replacement mods
 
-## BUGS:
+## Bugs:
 - The Player FOV doesn't seem to apply, but the Ship FOV works. Set it manually in the TKGRAPHICSSETTINGS.MXML located in No Man's Sky\Binaries\SETTINGS\
 
-## INSTALLATION:
+## Installation:
 - Vortex should work
 - For manual installation, extract the contents of the EnhancedFirstpersonCamera.zip file into your No Man's Sky\GAMEDATA\MODS
 - [More details here][mg]
 
-## SPECIAL THANKS:
+## Special Thanks:
 - [AMUMSS][amuss-ref] for making the modding pretty easy
 
 [nm]: https://www.nexusmods.com/nomanssky/mods/3901
