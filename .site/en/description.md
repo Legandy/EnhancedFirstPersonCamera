@@ -1,5 +1,5 @@
 # No Man's Sky - Enhanced First Person Camera Mod
-![Icon](https://raw.githubusercontent.com/Legandy/EnhancedFirstPersonCamera/main/.site/icon.png)
+![Icon](https://raw.githubusercontent.com/Legandy/EnhancedFirstPersonCamera/main/.site/icon.jpg)
 
 
 ## Downloads:
